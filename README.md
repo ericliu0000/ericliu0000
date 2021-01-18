@@ -1,7 +1,7 @@
-## Hi
+## Hi!
 
 ### About me
-I'm Eric, a :
+I'm Eric, a:
 - high schooler programming as a hobby. 
 - member of FRC team 5511
 
