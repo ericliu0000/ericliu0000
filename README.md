@@ -1,9 +1,9 @@
-## Hi!
+## Hello! 
 
-### About me
 I'm Eric, a:
-- high schooler programming as a hobby
-- member of a community FRC team
+- high schooler interested in computer programming
+- member of a community *FIRST* Robotics Competition team
 
 ### Projects
-There's a few repos I have listed on my profile; they're mostly just random projects. Some of them are for school, and some of them are for robotics. Thank you for visiting!
+There's a few repos I have listed on my profile. Some of them are for school, and some of them are for robotics. 
+Thank you for visiting!
