@@ -1,9 +1,9 @@
 ## Hello! 
 
 I'm Eric, a:
-- high schooler interested in computer programming
-- member of a community *FIRST* Robotics Competition team
+- (almost) college student interested in computer programming
+- former member of a *FIRST*® Robotics Competition and *FIRST* Tech Challenge team
 
 ### Projects
-There's a few repos I have listed on my profile. Some of them are for school, and some of them are for robotics. 
+There are a few repos I have listed on my profile. Some of them are for school, some of them are for robotics, and one of them is for a research internship.
 Thank you for visiting!
